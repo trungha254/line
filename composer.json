@@ -2,8 +2,8 @@
     "name": "trung/line",
     "description": "Api for Line login",
     "type": "composer-plugin",
-    "license": "685830d93d3c075255050921e01d52a94b9bf72b",
-    "minimum-stability": "dev",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "require": {},
 	"autoload": {
         "psr-4": {
