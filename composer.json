@@ -1,0 +1,13 @@
+{
+    "name": "trung/line",
+    "description": "Api for Line login",
+    "type": "composer-plugin",
+    "license": "trungha254041995",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "trungha\\Line\\": "src/"
+        }
+    }
+}
