@@ -3,11 +3,10 @@
     "description": "Api for Line login",
     "type": "composer-plugin",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {},
-	"autoload": {
-        "psr-4": {
-            "trungha\\Line\\": "src/"
-        }
+    "autoload": {
+    "psr-4": {
+        "trungha\\Line\\": "src/"
+    }
     }
 }
