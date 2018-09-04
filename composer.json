@@ -3,7 +3,7 @@
     "description": "Api for Line login",
     "type": "composer-plugin",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
 	"autoload": {
         "psr-4": {
