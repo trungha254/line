@@ -1,5 +1,5 @@
 {
-	"name": "trung/line",
+	"name": "line/apilogin",
 	"description": "Small and easy Line library for PHP",
 	"keywords": ["line", "oauth"],
 	"homepage": "https://github.com/trungha254/line",
